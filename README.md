@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Shahed+Hassan+Fz+Rabbi;MERN+Stack+Developer;Problem+Solver;Intarested+In+Ai+ML" />
 </p>
 
-<h1 align="center">Shahed Hassan Fz Rabbi</h1>
-<h1 align="center">(Md Rabbi Miah)</h1>
+<h1 align="center">Shahed Hassan Fz Rabbi (Md Rabbi Miah)</h1>
+<p align="center"> MERN Stack Developer | Problem Solver </p>
 
 <!-- HERO IMAGE + INTRO -->
 
@@ -65,9 +65,14 @@
 </p>
 
 ---
+## 🔥 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahed-hassan-fz-rabbi/shahed-hassan-fz-rabbi/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 💬 Quote
 
 <p align="center">
-"Build. Break. Learn. Repeat." 🔥
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
