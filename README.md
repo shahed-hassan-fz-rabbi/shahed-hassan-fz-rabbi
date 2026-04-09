@@ -3,8 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=shahed-hassan-fz-rabbi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<img src="https://githubcard.com/shahed-hassan-fz-rabbi.svg?d=DNLaUkrx"/>
+
+<img src="https://githubcard.com/g/DNLaUkrx.svg"/>
+
 <p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Shahed+Hassan+Fz+Rabbi;MERN+Stack+Developer;Problem+Solver;Intarested+In+Ai+ML" />
 </p>
 
