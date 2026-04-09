@@ -54,12 +54,11 @@
 - 🧩 Practicing **DSA & Problem Solving**
 
  
-<img src="https://github-readme-stats.vercel.app/api?username=shahed-hassan-fz-rabbi&show_icons=true&theme=tokyonight"/>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp,python,php,SQL,MySQL,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp,python,mysql,php,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -79,11 +78,6 @@
 </p>
 
 ---
-## 🔥 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahed-hassan-fz-rabbi/shahed-hassan-fz-rabbi/output/github-contribution-grid-snake.svg" />
-</p>
 
 ## 💬 Quote
 
