@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahed-hassan-fz-rabbi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
+<img src="https://githubcard.com/shahed-hassan-fz-rabbi.svg?d=DNLaUkrx"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Shahed+Hassan+Fz+Rabbi;MERN+Stack+Developer;Problem+Solver;Intarested+In+Ai+ML" />
 </p>
@@ -42,10 +44,19 @@
 </tr>
 </table>
 
+## 🚀 Current Activities
+
+- 🌱 Exploring **Next.js**
+- 🔨 Building **Full Stack Projects (MERN)**
+- 🧩 Practicing **DSA & Problem Solving**
+
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=shahed-hassan-fz-rabbi&show_icons=true&theme=tokyonight"/>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp,python,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp,python,php,SQL,MySQL,html,css,git,github,vscode" />
 </p>
 
 ---
